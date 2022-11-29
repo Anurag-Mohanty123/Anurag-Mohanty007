@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anurag-Mohanty123
+- 👋 Hi, I’m Anurag Mohanty
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Machine Learning
 
